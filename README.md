@@ -1,4 +1,4 @@
-Sistem Parkir Berbasis Web
+SISTEM PARKIR MENGGUNAKAN QR CODE BERBASIS WEB 
 
 aplikasi Sistem parkir menggunakan QR Code berbasis website yang menggunakan bahasa pemrograman php
 Aplikasi ini dibuat oleh saya sendiri : Fadhil Faqih
